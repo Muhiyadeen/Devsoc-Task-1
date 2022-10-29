@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is the sixth commit.
 You start here! Follow the instructions provided to complete this task!
 =======
@@ -11,3 +12,7 @@ This is the seventh commit.
 First commit in the feature branch!
 Ideally, you are not supposed to see this message.
 >>>>>>> 5fc61b6... commit 7
+=======
+This is the eighth commit.
+Second commit in the feature branch!
+>>>>>>> 4dc9f8a... commit 8
